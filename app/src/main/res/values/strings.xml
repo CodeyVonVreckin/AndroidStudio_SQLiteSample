@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="btnTxt">CLick Me To Add BITCH!!</string>
+    <string name="textBoxText">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="display">Display Users</string>
+</resources>
